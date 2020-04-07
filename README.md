@@ -1,3 +1,3 @@
 
 
-www.thegoodgoo.com
+https://thegoodgoo.com
